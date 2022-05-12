@@ -1,7 +1,7 @@
 # hand_gesture_recognition
 Project that recognizes a hand gesture on a live stream video using OpenCV &amp; MediaPipe
 
-![](https://google.github.io/mediapipe/images/mobile/hand_tracking_3d_android_gpu.gif)
+![](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
 
 # Requirements
 * OpenCV 3.4.2 or Later
